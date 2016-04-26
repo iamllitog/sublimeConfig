@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"DocBlockr",
+		"Emmet",
+		"JavaScript & NodeJS Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"TerminalProjectFolder",
+		"Theme - Spacegray"
+	]
+}
