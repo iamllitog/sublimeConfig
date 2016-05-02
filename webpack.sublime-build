@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "webpack",
+	"working_dir": "${project}"
+}
